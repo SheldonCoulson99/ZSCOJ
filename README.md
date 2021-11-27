@@ -2,4 +2,3 @@
 电子科技大学中山学院 OnlineJudge 个人的部分题解。  
 想学技术，不要只钻研ACM。😏  
 FYI，中院计机学子请务必考研。  
-Partial solutions for ZSCOJ, Stay away from ACM if you want to be a real CS Engineer;  
